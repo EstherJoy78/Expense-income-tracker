@@ -507,7 +507,7 @@ streamlit run app.py
 ```
 ## 🧠 AI Prompt Journal
 
-### Entry 1: Setting up Git and Project Initialization
+### Prompt 1: Setting up Git and Project Initialization
 
 **Prompt Used:**  
 “How do I initialize a Git repository and connect my local project to GitHub?”
@@ -523,7 +523,7 @@ The response was very helpful because it simplified Git concepts and guided me t
 
 ---
 
-### Entry 2: Fixing Python Dependency Errors
+### Prompt 2: Fixing Python Dependency Errors
 
 **Prompt Used:**  
 “Why am I getting ‘No matching distribution found for pandas==2.2.0’ when installing requirements?”
@@ -539,7 +539,7 @@ This was very helpful because it identified the root cause quickly and provided 
 
 ---
 
-### Entry 3: Fixing npm and Frontend Setup Issues
+### Prompt 3: Fixing npm and Frontend Setup Issues
 
 **Prompt Used:**  
 “Why is npm not working and how do I fix ‘command not found’ in Git Bash?”
