@@ -505,7 +505,55 @@ streamlit run app.py
 
 # 6. Open browser to http://localhost:8501
 ```
+## 🧠 AI Prompt Journal
 
+### Entry 1: Setting up Git and Project Initialization
+
+**Prompt Used:**  
+“How do I initialize a Git repository and connect my local project to GitHub?”
+
+**Curriculum Link:**  
+(Add link here)
+
+**AI Response Summary:**  
+The AI provided step-by-step guidance on initializing a Git repository, adding a remote origin, committing files, and pushing to GitHub. It also explained the difference between `git init` and `git clone`, and how to resolve issues like untracked files.
+
+**Evaluation:**  
+The response was very helpful because it simplified Git concepts and guided me through pushing my project successfully. It helped me understand how version control works in practice.
+
+---
+
+### Entry 2: Fixing Python Dependency Errors
+
+**Prompt Used:**  
+“Why am I getting ‘No matching distribution found for pandas==2.2.0’ when installing requirements?”
+
+**Curriculum Link:**  
+(Add link here)
+
+**AI Response Summary:**  
+The AI explained that the error was due to an incompatible Python version (Python 3.8) and recommended either upgrading Python or downgrading the pandas version. It guided me through creating a new Conda environment with Python 3.11 and reinstalling dependencies.
+
+**Evaluation:**  
+This was very helpful because it identified the root cause quickly and provided a clear fix. It also improved my understanding of environment management and package compatibility.
+
+---
+
+### Entry 3: Fixing npm and Frontend Setup Issues
+
+**Prompt Used:**  
+“Why is npm not working and how do I fix ‘command not found’ in Git Bash?”
+
+**Curriculum Link:**  
+(Add link here)
+
+**AI Response Summary:**  
+The AI explained that Node.js was not properly added to the system PATH in Git Bash. It guided me through locating the Node.js installation folder and updating the PATH manually. It also helped troubleshoot issues with the dev server and running the React app.
+
+**Evaluation:**  
+The response was very practical and solved the issue completely. It helped me understand how environment variables work and how to troubleshoot frontend setup problems.
+
+---
 **That's it! Start tracking your finances! 💰**
 
 ---
