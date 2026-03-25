@@ -468,11 +468,8 @@ Contributions welcome! Here's how:
 
 This project is licensed under the MIT License.
 
-## 👤 Author
-
-**[Your Name]**
-- GitHub: [@yourusername]
-- Email: your.email@example.com
+**[Esther Joy]**
+- GitHub: [EstherJoy78]
 
 ## 🙏 Acknowledgments
 
